@@ -1,6 +1,6 @@
 # LightRefraction
 
-To download, select /Download/ and /Download Zip/
+To download, select **Download** and **Download Zip**
 
 Open the zip file once it downloads :)
 
